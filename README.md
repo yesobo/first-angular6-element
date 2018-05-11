@@ -1,6 +1,6 @@
 # ElementsDemo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1 following [Tomek Sułkowski Building Custom Elements / Web Components with Angular 6 blog post](https://medium.com/@tomsu/building-web-components-with-angular-elements-746cd2a38d5b)
 
 ## Development server
 
